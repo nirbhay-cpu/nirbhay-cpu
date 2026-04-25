@@ -59,13 +59,4 @@
 * **ICD-10 Code Prediction using LLMs**
 * **Healthcare Anomaly Detection System**
 
----
-
-## ✍️ Recent Articles
-
-* Roadmap to Hypothesis Testing
-* Understanding Statistical Concepts for Data Science
-* Machine Learning and NLP Best Practices
-* Practical Applications of Generative AI
-* Time Series Forecasting Techniques
 
