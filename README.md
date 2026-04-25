@@ -1,62 +1,64 @@
 # Hi 👋, I'm Nirbhay Arora
 
-<h3 align="center">A Data Scientist & Machine Learning Engineer from India, passionate about building intelligent, data-driven solutions</h3>
+<p>A Data Scientist & Machine Learning Engineer from India, passionate about building intelligent, data-driven solutions I'm currently working as a Data Scientist at <a href="https://www.tcs.com/">Tata Consultancy Service</a></p>
+
 
 - 🔭 I’m currently working on **Real-Time Anomaly Detection for Healthcare Equipment**
-
 - 👯 I’m looking to collaborate on **Machine Learning, NLP, and Generative AI Projects**
-
 - 💬 Ask me about **Python, Machine Learning, NLP, Deep Learning, Time Series Forecasting, and Generative AI**
-
 - 📫 How to reach me **nirbhay89arora@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/nirbhay-arora-3a53781b3/](https://www.linkedin.com/in/nirbhay-arora-3a53781b3/)
 
 ---
 
 ## 🚀 Skills
 
-### Programming Languages
-
-`Python` `SQL` `C`
-
-### Databases
-
-`MongoDB` `MySQL` `Azure Data Explorer (ADX)`
-
-### Data Processing & Visualization
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Power BI`
-
-### Machine Learning & Deep Learning
-
-`Scikit-Learn` `TensorFlow` `Keras` `PyTorch` `XGBoost` `CatBoost`
-
-### Natural Language Processing
-
-`NLTK` `Gensim` `Transformers` `Hugging Face`
-
-### MLOps & Deployment
-
-`Flask` `Docker` `Git` `GitHub` `Azure`
-
-### Generative AI
-
-`OpenAI` `LangChain` `LLMs` `Prompt Engineering`
-
-### Development Tools
-
-`Jupyter Notebook` `Google Colab` `PyCharm` `VS Code`
-
----
-
-## 📌 Featured Projects
-
-* **Sentiment Analysis using ANN**
-* **Telecom Churn Prediction**
-* **Exploratory Data Analysis Projects**
-* **Natural Language to SQL using T5**
-* **ICD-10 Code Prediction using LLMs**
-* **Healthcare Anomaly Detection System**
-
-
+<h4>Preferred Languages</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-eee?logo=python&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-eee?logo=c%2B%2B&logoColor=blue&color=black">
+</p>
+<h4>Databases</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-MySQL-eee?logo=mysql&logoColor=white&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-MongoDB-eee?logo=mongodb&color=black">
+</p>
+<h4>Analytics Tools</h4>
+<p>
+  <img alt="Power BI Badge" src="https://img.shields.io/badge/-Power%20BI-eee?logo=powerbi&logoColor=yellow&color=black">
+  &nbsp&nbsp
+  <img alt="Azure Data Explorer Badge" src="https://img.shields.io/badge/-Azure%20Data%20Explorer-eee?logo=microsoftazure&logoColor=blue&color=black">
+</p>
+<h4>Data Processing and Visualization</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-NumPy-eee?logo=numpy&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Pandas-eee?logo=pandas&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/Seaborn-black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Plotly-eee?logo=plotly&logoColor=blue&color=black"></p>
+<h4>ML/DL</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Scikit--Learn-eee?logo=scikitlearn&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyTorch-eee?logo=pytorch&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-TensorFlow-eee?logo=tensorflow&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Keras-eee?logo=Keras&logoColor=red&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Scipy-eee?logo=scipy&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-NLTK-eee?logo=nltk&color=black">
+</p>
+<h4>Generative AI</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-eee?logo=langchain&labelColor=black&color=black">
+  &nbsp&nbsp
+  <img alt="Static Badge" src="https://img.shields.io/badge/RAG-eee?logo=RAG&labelColor=black&color=black">
+</p>
+<h4>Backend</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Flask-eee?logo=flask&color=black">
+</p>
+<h4>IDEs</h4>
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Vs%20Code-eee?logo=visualstudiocode&logoColor=blue&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-Jupyter%20Lab-eee?logo=jupyter&color=black">
+  &nbsp&nbsp<img alt="Static Badge" src="https://img.shields.io/badge/-PyCharm-eee?logo=pycharm&logoColor=%237dfa9e&color=black">
+</p>
